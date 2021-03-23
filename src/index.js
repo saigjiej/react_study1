@@ -1,2 +1,5 @@
 // import './jsx/create-react-element'
-import './jsx/jsx-basic-1.js'
+// import './jsx/jsx-basic-1.js'
+// import './component-basic/component-test.js'
+import './component-basic/props-basic-1'
+// import './component-basic/props-children'
