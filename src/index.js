@@ -21,4 +21,14 @@
 
 // import './component-advanced/ref-demo'
 // import './component-advanced/controlled-component'
-import './component-advanced/reservation-form'
+// import './component-advanced/reservation-form'
+// import './component-intermediate/lifecycle-method-should-component-update'
+
+// import './exam/make-image-slider-3214-Leesukmin'
+
+// import './component-advanced/context-api'
+// import './component-advanced/context-api-theme-context'
+
+// import './component-styling/using-css'
+// import './component-styling/using-css-module'
+import  './component-styling/using-styled-components'
